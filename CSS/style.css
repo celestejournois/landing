@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family: 'Overpass', serif;
+  font-size: 18px;
+  margin: 0px auto;
+  background-color: #c2bcc0 ;
+
+}
+h1, h2 {
+  font-family: 'Overpass', sans-serif;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Lobster', sans-serif;
+  font-weight: lighter;
+}
+
+a {
+  text-decoration: none;
+}
